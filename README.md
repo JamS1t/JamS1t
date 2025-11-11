@@ -32,8 +32,6 @@ I’m currently learning GSAP (GreenSock Animation Platform) to bring smooth, in
 
 <a href="http://www.github.com/JamS1t"><img src="https://github-readme-stats.vercel.app/api?username=JamS1t&show_icons=true&hide=&count_private=true&title_color=000000&text_color=444444&icon_color=0891b2&bg_color=f0f2f5&hide_border=true&show_icons=true" alt="JamS1t's GitHub stats" /></a>
 
-<a href="http://www.github.com/JamS1t"><img src="https://github-readme-stats.vercel.app/api/streak?user=JamS1t&stroke=444444&background=f0f2f5&ring=000000&fire=000000&currStreakNum=444444&currStreakLabel=000000&sideNums=444444&sideLabels=444444&dates=444444&hide_border=true" /></a>
-
 <a href="https://github.com/JamS1t" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamS1t&langs_count=10&title_color=000000&text_color=444444&icon_color=0891b2&bg_color=f0f2f5&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
