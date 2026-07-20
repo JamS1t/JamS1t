@@ -2,7 +2,7 @@
 
 ### I ship AI-powered web apps and operational tools to production.
 
-I'm a freelance full-stack developer based in Eastern Visayas, Philippines. I build AI-integrated web products, internal tools, and operational systems—and care most about the part after the demo, when people depend on the software every day.
+I'm a freelance full-stack developer based in Eastern Visayas, Philippines. I build AI-integrated web products, internal tools, and operational systems. I care most about the part after the demo, when people depend on the software every day.
 
 From 2022 to 2024, I helped maintain and extend a production ERP for a multi-branch rental business. Since 2024, I've been shipping client and independent products across web, mobile, automation, and AI.
 
@@ -13,7 +13,6 @@ From 2022 to 2024, I helped maintain and extend a production ERP for a multi-bra
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Abnu](https://github.com/JamS1t/abnu-src) | Python entry for AMD Developer Hackathon ACT II, Track 1; full source is scheduled for release after submissions close. | Python |
-| [AlgoLens](https://github.com/JamS1t/algolens) | AI pre-post reviewer for X with scoring, analysis, rewrites, style replication, and a browser extension. | React 19, Express, SQLite, OpenRouter |
 | [StockPilot](https://github.com/JamS1t/stock-pilot) | Inventory and POS dashboard for small businesses with Google OAuth, JWT authentication, and MySQL-backed reporting. | React 19, TypeScript, Express 5, MySQL |
 | [FloatWatch](https://github.com/JamS1t/floatwatch) | Mobile tracker for Filipino GCash Partner Outlet operators with receipt OCR, float monitoring, markup calculations, and discrepancy detection. | Flutter, Dart, SQLite, ML Kit |
 
