@@ -1,39 +1,31 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is James Carl Sitsit
+# James Carl Sitsit
 
-## Full-Stack Developer | API & Automation Specialist | RAG & Knowledge Systems Expert
+### I ship AI-powered web apps and operational tools to production.
 
-Hi there! I’m James Carl Sitsit, a passionate full-stack web developer from the Philippines with 2+ years of hands-on experience building scalable and efficient web applications. I specialize in crafting custom solutions using JavaScript, TypeScript, C#, ASP.NET Core, React.js, Node.js, Express.js, MySQL, and MongoDB.
+I'm a freelance full-stack developer based in Eastern Visayas, Philippines. I build AI-integrated web products, internal tools, and operational systems—and care most about the part after the demo, when people depend on the software every day.
 
-I started as an intern and quickly transitioned into a full-time developer role, managing production deployments, GitHub repositories, and leading full-stack feature development. My focus is on clean, maintainable code and system reliability — always ensuring that apps are performant and ready to scale.
+From 2022 to 2024, I helped maintain and extend a production ERP for a multi-branch rental business. Since 2024, I've been shipping client and independent products across web, mobile, automation, and AI.
 
-💡 Recently, I’ve been diving deep into automation and AI-driven workflows — building RAG (Retrieval-Augmented Generation) and internal knowledge systems using n8n and APIs. I specialize in integrating complex APIs, connecting data across services, and creating smart internal tools that boost productivity and decision-making.
+[Portfolio](https://sitsit.dev) · [Email](mailto:jamescarlsitsit@gmail.com) · [GitHub](https://github.com/JamS1t)
 
-I’m currently learning GSAP (GreenSock Animation Platform) to bring smooth, interactive animations to my front-end projects and planning to explore Three.js for creative 3D web experiences.
+## Selected work
 
-- 🌍 I'm based in Philippines
-- 🖥️ See my portfolio at [jamescarlsitsit.com](http://jamescarlsitsit.com)
-- ✉️ You can contact me at [jamescarlsitsit@gmail.com](mailto:jamescarlsitsit@gmail.com)
-- 🚀 I'm currently working on [StockPilot](http://www.stockpilot.space)
-- 🧠 I'm currently learning N8N, React.JS, GSAP, Three.JS
-- 👥 I'm looking to collaborate on full-stack web applications, API integration projects, internal automation tools using n8n, and RAG-based systems that combine AI with structured data for smarter workflows.
-- 💬 Ask me about freelance collaborations, open-source contributions, or innovative side projects involving automation, APIs, or AI-powered systems.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Abnu](https://github.com/JamS1t/abnu-src) | Python entry for AMD Developer Hackathon ACT II, Track 1; full source is scheduled for release after submissions close. | Python |
+| [AlgoLens](https://github.com/JamS1t/algolens) | AI pre-post reviewer for X with scoring, analysis, rewrites, style replication, and a browser extension. | React 19, Express, SQLite, OpenRouter |
+| [StockPilot](https://github.com/JamS1t/stock-pilot) | Inventory and POS dashboard for small businesses with Google OAuth, JWT authentication, and MySQL-backed reporting. | React 19, TypeScript, Express 5, MySQL |
+| [FloatWatch](https://github.com/JamS1t/floatwatch) | Mobile tracker for Filipino GCash Partner Outlet operators with receipt OCR, float monitoring, markup calculations, and discrepancy detection. | Flutter, Dart, SQLite, ML Kit |
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" alt="Appwrite" title="Appwrite" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
-</p>
+I'm also building private, local-first tools for creator operations, developer learning, and personal knowledge workflows.
 
-### Socials
+## What I work with
 
-<p align="left"> <a href="https://www.github.com/JamS1t" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/james-carl-sitsit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+- **Web:** TypeScript, JavaScript, React, Next.js, Node.js, Express, Tailwind CSS
+- **Data and backend:** PostgreSQL, MySQL, SQLite, REST APIs, OAuth, JWT
+- **AI and automation:** Python, AI APIs, n8n, local-first workflows
+- **Mobile:** Flutter, Dart
 
-### Badges
+## Let's build something useful
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/JamS1t"><img src="https://github-readme-stats.vercel.app/api?username=JamS1t&show_icons=true&hide=&count_private=true&title_color=000000&text_color=444444&icon_color=0891b2&bg_color=f0f2f5&hide_border=true&show_icons=true" alt="JamS1t's GitHub stats" /></a>
-
-<a href="https://github.com/JamS1t" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamS1t&langs_count=10&title_color=000000&text_color=444444&icon_color=0891b2&bg_color=f0f2f5&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/JamS1t/flushed-kiss" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JamS1t&repo=flushed-kiss&title_color=000000&text_color=444444&icon_color=0891b2&bg_color=f0f2f5&hide_border=true&locale=en" /></a><a href="https://github.com/JamS1t/eskaiflix" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JamS1t&repo=eskaiflix&title_color=000000&text_color=444444&icon_color=0891b2&bg_color=f0f2f5&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+Have a product, internal tool, or workflow that needs to move from idea to dependable software? [See my work](https://sitsit.dev) or [email me](mailto:jamescarlsitsit@gmail.com).
