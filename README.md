@@ -15,7 +15,7 @@ From 2022 to 2024, I helped maintain and extend a production ERP for a multi-bra
 | [Claude Remainder](https://github.com/JamS1t/claude-remainder) | Always-on Windows dock for Claude Code usage: session and weekly limits, live sessions, top projects, and suggestions drawn from your own history. Runs entirely on your machine. | Electron, JavaScript, WebGL2 |
 | [Abnu](https://github.com/JamS1t/abnu-src) | Python entry for AMD Developer Hackathon ACT II, Track 1; full source is scheduled for release after submissions close. | Python |
 | [StockPilot](https://github.com/JamS1t/stock-pilot) | Inventory and POS dashboard for small businesses with Google OAuth, JWT authentication, and MySQL-backed reporting. | React 19, TypeScript, Express 5, MySQL |
-| [FloatWatch](https://github.com/JamS1t/floatwatch) | Mobile tracker for Filipino GCash Partner Outlet operators with receipt OCR, float monitoring, markup calculations, and discrepancy detection. | Flutter, Dart, SQLite, ML Kit |
+| [FloatWatch](https://sitsit.dev/work/floatwatch/) | Mobile tracker for Filipino GCash Partner Outlet operators with receipt OCR, float monitoring, markup calculations, and discrepancy detection. | Flutter, Dart, SQLite, ML Kit |
 
 I'm also building private tools, including a music-driven video engine and a local-first AI memory vault. More at [sitsit.dev/work](https://sitsit.dev/work/).
 
