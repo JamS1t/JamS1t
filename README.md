@@ -6,7 +6,7 @@ I'm a full-stack developer based in Eastern Visayas, Philippines. I build AI-pow
 
 From 2022 to 2024 I worked at Litecloud PH on [CERPSYS](https://sitsit.dev/work/cerpsys/), a modular cloud ERP for Philippine small businesses, where I built the Vicinage subdivision module and most of the core: accounting, point of sale, inventory, and purchasing. Since 2024 I've been building and shipping my own products. TESDA CSS NC II certified.
 
-[Portfolio](https://sitsit.dev) · [Case studies](https://sitsit.dev/work/) · [Writing](https://sitsit.dev/blog/) · [LinkedIn](https://www.linkedin.com/in/james-carl-sitsit) · [Email](mailto:jamescarlsitsit@gmail.com)
+[Portfolio](https://sitsit.dev) · [Case studies](https://sitsit.dev/work/) · [Writing](https://sitsit.dev/blog/) · [LinkedIn](https://www.linkedin.com/in/james-carl-sitsit) · [X: JC Dev (@jams1t)](https://x.com/jams1t) · [Email](mailto:jamescarlsitsit@gmail.com)
 
 ## Selected work
 
