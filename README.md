@@ -32,7 +32,7 @@ Loan, savings, and collections system for a multi-purpose cooperative. Amortizat
 Turns a music track into an on-beat, follow-along video.<br>
 <sub>Godot 4.5 · GDScript · Python</sub>
 
-## Open source
+## Public code
 
 - [claudebar](https://github.com/JamS1t/claudebar): the Claude Code usage dock above.
 - [stock-pilot](https://github.com/JamS1t/stock-pilot): inventory and POS dashboard. React 19, TypeScript, Express 5, MySQL, Google OAuth.
